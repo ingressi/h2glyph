@@ -5,13 +5,14 @@
   <polyline id="g_grid" class="gly" points="5,5 9,7 5,9 1,7 1,3 5,1 9,3 " />
 </svg>  
   
-인그레스에서 포탈 해킹 버튼을 길게 누르면 G 모양의 서브버튼을 통해 미니 게임에 들어갈 수 있습니다.  
+인그레스에서 포탈 해킹 버튼을 길게 누르면 G 모양의 서브버튼으로 미니 게임에 들어갈 수 있습니다.  
   
-6각형의 calculation grid에 양자의 전위로 그려지는 그림들이 표시되는데, 이것이 퀴즈 문제입니다.
+6각형의 calculation grid에 양자 전위로 그려지는 그림들이 표시되는데, 이것이 퀴즈 문제입니다.
 그림을 똑같이 차례대로 따라 그리는 것을 성공하면, 정답율과 속도점수에 따라 더 많은 아이템을 획득할 수 있습니다.  
   
 포탈 레벨이 높을 수록 그림의 갯수가 많아져서 최대 5개의 그림을 외우고 따라 그리게 되는데, 
 각 그림(glyph. 글리프) 별 단어로써 의미가 지정되어 있기에... 5개의 뜻을 이으면 유의미한 문장이 완성됩니다.  
+
 이 맥락을 알아채게 되면 퀴즈가 더 용이해집니다.
 
 ## Lesson 0 : see.
@@ -41,10 +42,10 @@ Ingress에서의 글리프(glyph) 문자 일부는 상형문자같은 성격이 
 Tip: 연달아 나오는 글리프를 보면서 외울 때에, 모르는 모양 위치에서는 "꽝"이라고 하는 것이 추후 혼동이 적습니다.
 
 ## Lesson 1 : shaper. nzeer. human. enlightened. resist.  
-**쉐이퍼와 진영.**  
+**외계인 및 인류의 진영.**  
 인그레스의 스토리에서는 다른 차원의 지적존재가 지구의 인류에게 메시지 및 창조력 등을 전달하려 합니다.  
 다른 차원에 인류를 강화 개량하려하는 쉐이퍼(shaper)라는 존재가 있고, 
-쉐이퍼에게 반목하는 엔지어(n'zeer)라는 존재가 서로 경쟁하면서 인류에게 메시지를 전달합니다.
+쉐이퍼에게 반목하는 엔지얼(n'zeer)이라는 존재가 서로 경쟁하면서 인류에게 메시지를 전달합니다.
 
 쉐이퍼의 문명 받아들이자는 인류 진영(faction)은 계몽군(enlightened)으로서 활동하고,  
 외계문명을 배척하자는 인류 진영은 반군(resistant, resistance)으로서 활동합니다.  
@@ -63,17 +64,17 @@ Tip: 연달아 나오는 글리프를 보면서 외울 때에, 모르는 모양 
 레지<img width="20" height="20" src="g_resist.svg" /> 글리프들은 과거에 더 복잡한 여러가지 모양으로 세분화되었었는데, 
 수년간의 과정에 잡다한 그림들은 소거되었기에... 지금은 단순히 3개만 쓰입니다.  
 
-그리고, 서양 방패 모양인 인류<img width="20" height="20" src="g_human.svg" />는 추후 레슨에서 좀더 세부적으로 나눠서 보게 될 것입니다.
+그리고, 서양 방패 모양인 인류<img width="20" height="20" src="g_human.svg" />는 뒤 레슨에서 좀더 세부적으로 나눠서 보게 될 것입니다.
 
 ## Lesson 2 : body. mind. soul. presence. destiny.
 **인류 존재 숙명**  
-인류의 <img width="20" height="20" src="g_human.svg" /> 역 오각형 글리프는 세 부분으로 나눠지고 합쳐집니다. 
-육체와 영혼과 마인드입니다. 그 외에도 인류 글리프 모양에서 응용되어 나온 것들이 있습니다.  
+인류의 <img width="20" height="20" src="g_human.svg" /> 역 오각형 글리프는 "육체와 영혼과 마인드" 세 부분으로 나눠지고 합쳐집니다. 
+그 외에도 인류 글리프 모양에서 응용되어 나온 것들이 있습니다.  
 
 관련 글리프 그림과 뜻은 다음과 같습니다 : body. mind. soul. presence. destiny.  
 육체: <img width="30" height="30" src="g_body.svg" /> 심장 같은 역삼각형입니다.   
 마인드: <img width="30" height="30" src="g_mind.svg" /> 왼쪽 조각입니다.  
-영혼: <img width="30" height="30" src="g_soul.svg" /> 오른쪽 조각입니다.  
+영혼: &nbsp; &nbsp; <img width="30" height="30" src="g_soul.svg" /> 오른쪽 조각입니다.  
 존재: <img width="30" height="30" src="g_presence.svg" /> 복잡한 모양인데, 다행히 문장 퀴즈에 자주 나오지 않습니다.  
 숙명: <img width="30" height="30" src="g_destiny.svg" /> 오각형 안에서 최대한 복잡하게 꼬인 모습입니다.  
 
@@ -90,8 +91,8 @@ Tip: 연달아 나오는 글리프를 보면서 외울 때에, 모르는 모양 
 관련 글리프 그림과 뜻은 다음과 같습니다 : portal. XM. message. data.  
 포탈: <img width="30" height="30" src="g_portal.svg" /> 가로로 길게 열린 문 좌우 끝에 원근감이 있습니다.  
 XM: <img width="30" height="30" src="g_xm.svg" /> 가면이나 선글라스 같이 뭔가 Exotic한 분위기의 모양입니다.  
-메시지: <img width="30" height="30" src="g_message.svg" /> 좌우로 통하는 번개 모양은 "대화"의 성격입니다.  
-데이터: <img width="30" height="30" src="g_data.svg" /> 상하로 통하는 번개는 "데이터"의 성격입니다.  
+메시지: <img width="30" height="30" src="g_message.svg" /> 좌우로 통하는 번개 모양은 "대화"입니다.  
+데이터: <img width="30" height="30" src="g_data.svg" /> 상하로 통하는 번개는 "데이터"입니다.  
 
 글리프를 익힐 때에 혼동할 수 있는 부분이 "대칭성"입니다.  
 좌우 대칭의 경우 서로 반대어를 뜻하는 경우가 많습니다. 상하 대칭도 있습니다. 
@@ -101,7 +102,8 @@ XM: <img width="30" height="30" src="g_xm.svg" /> 가면이나 선글라스 같�
 좌우대칭 글리프가 없으므로 쉽습니다.  
 데이타 <img width="20" height="20" src="g_data.svg" /> 글리프도 대칭 글리프가 없지만, 
 시작점에서 우하단으로 내려가는지 좌하단으로 내려가는지 혼동됩니다. 
-다행히 우리가 글씨를 쓰는 전체 흐름인 "우향 & 하향"으로 외울 수 있습니다.
+다행히 우리가 글씨를 쓰는 전체 흐름인 "우향 & 하향"으로 외울 수 있으며, 알파벳 S와는 다른 방향입니다. 
+다행히도 좌우대칭 글리프가 없으므로, 인그레스에 s자같은 글리프는 없다고 생각하시면 됩니다.  
 
 참고로, 같은 글리프(동음)에 다른 뜻(이의)이 담긴 경우가 있고, 
 서로 다른 글리프(이음)가 같은 뜻(동의)을 가지는 경우도 있어서... 
@@ -136,15 +138,15 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 나님: <img width="30" height="30" src="g_me.svg" /> 지도앱 내 위치 핀업 같은 모양입니다.  
 우리: <img width="30" height="30" src="g_we.svg" /> 나님에서 왼쪽 갈비를 빼면 우리가 됩니다.  
 너님: <img width="30" height="30" src="g_you.svg" /> 상하 대칭으로 2인칭으로 변경됩니다.  
-그들: <img width="30" height="30" src="g_them.svg" /> 알고보니 회전대칭이었나봅니다. 오른쪽 획이 빠졌습니다.  
-셀프: <img width="30" height="30" src="g_self.svg" /> 가장 아래쪽에 그려진 물 대접(대야) 모양입니다.  
+그들: <img width="30" height="30" src="g_them.svg" /> 그들에는 오른쪽 획이 빠졌습니다. (알고보니 회전대칭.)  
+셀프: <img width="30" height="30" src="g_self.svg" /> 가장 아래쪽에 고여진 물 대접(대야) 모양입니다.  
 
 상형문자 같은 글리프들이라서 익혀기 쉽습니다.  
-허나, self의 경우 직관적이지 않습니다. 한국인이라면 "물은 셀프"에 익숙하므로 "물"과 연상지을 수 있으며, 
+허나, self의 경우 직관적이지 않습니다. 한국인이라면 "물은 셀프"에 익숙하므로 "물"과 연상지을 수 있겠으나, 
 시작점과 끝점을 잘 외워둬야 하는 글리프임에 유념하십시오.
 
 혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
-<img width="20" height="20" src="g_breathe.svg" /> 
+<img width="20" height="20" src="g_breathe.svg" /> <img width="20" height="20" src="g_less.svg" /> 
 
 ## Lesson 6 : create. destroy. improve. erode. react.
 **창조 관련**  
@@ -161,7 +163,7 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 시작 / 끝 꼭지점 위치를 제대로 외워야 합니다.  
 참고로, erode(침강) 글리프는 문장에서는 거의 나오지 않으므로, 나머지 글리프를 중심으로 익혀두면 됩니다.
 
-혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_advance.svg" /> 
 <img width="20" height="20" src="g_retreat.svg" /> 
 <img width="20" height="20" src="g_easy.svg" /> 
@@ -174,15 +176,15 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 
 관련 글리프 그림과 뜻은 다음과 같습니다 : breathe. die. reincarnate. evolution. failure.  
 숨쉼: <img width="30" height="30" src="g_breathe.svg" /> 팔벌려 숨을 쉽니다. 살아있다는 뜻입니다.  
-죽음: <img width="30" height="30" src="g_die.svg" /> 대칭으로 반대말입니다. 둘 다 가운데 점에 허리를 둡니다.  
+죽음: <img width="30" height="30" src="g_die.svg" /> 대칭으로 반대말입니다. 생/사 양쪽 다 가운데 점에 허리를 둡니다.  
 부활: <img width="30" height="30" src="g_reincarnate.svg" /> 지난 레슨에서 익힌 창조(create)에 액센트가 있습니다.  
-진화: <img width="30" height="30" src="g_evolution.svg" /> 세대를 거쳐 계단식 발전을 이루는 모습입니다.  
-실패: <img width="30" height="30" src="g_failure.svg" /> 좌우 대칭으로 반대 뜻 뉘앙스가 됩니다.  
+진화: <img width="30" height="30" src="g_evolution.svg" /> 세대를 거쳐 계단식 발전을 이루는 진화의 모습.  
+실패: <img width="30" height="30" src="g_failure.svg" /> 좌우 대칭으로 반대 뉘앙스인 실패의 뜻.  
 
 숨쉼 글리프는 LIVE라는 뜻으로도 쓰입니다. 진화 글리프는 알파벳 N과 유사한데, 
 다른 글리프도 N과 유사한 것이 있으니 주의해야 합니다.
 
-혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_self.svg" /> 
 <img width="20" height="20" src="g_more.svg" /> 
 <img width="20" height="20" src="g_less.svg" /> 
@@ -199,7 +201,7 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 방어: <img width="30" height="30" src="g_defend.svg" /> / 
 승리: <img width="30" height="30" src="g_victory.svg" /> / 
 
-혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_create.svg" /> 
 <img width="20" height="20" src="g_destroy.svg" /> 
 <img width="20" height="20" src="g_more.svg" /> 
@@ -214,7 +216,7 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 제한: <img width="30" height="30" src="g_restraint.svg" /> / 
 배신: <img width="30" height="30" src="g_rebel.svg" /> / 
 
-혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_see.svg" /> 
 <img width="20" height="20" src="g_gain.svg" /> 
 <img width="20" height="20" src="g_loss.svg" /> 
@@ -227,10 +229,10 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 함께: <img width="30" height="30" src="g_together.svg" /> / 
 공유: <img width="30" height="30" src="g_share.svg" /> / 
 조화: <img width="30" height="30" src="g_harmony.svg" /> / 
-키움: <img width="30" height="30" src="g_nourish.svg" /> / 
+간호: <img width="30" height="30" src="g_nourish.svg" /> / 
 충전: <img width="30" height="30" src="g_recharge.svg" /> / 
 
-혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_intelligence.svg" /> 
 <img width="20" height="20" src="g_react.svg" /> 
 <img width="20" height="20" src="g_stay.svg" /> 
@@ -242,11 +244,11 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 관련 글리프 그림과 뜻은 다음과 같습니다 : strong. weak. equal. inside. balance.  
 강한: <img width="30" height="30" src="g_strong.svg" /> / 
 약한: <img width="30" height="30" src="g_weak.svg" /> / 
-같다: <img width="30" height="30" src="g_equal.svg" /> / 
+같은: <img width="30" height="30" src="g_equal.svg" /> / 
 안에: <img width="30" height="30" src="g_inside.svg" /> / 
 균형: <img width="30" height="30" src="g_balance.svg" /> / 
 
-혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_rebel.svg" /> 
 <img width="20" height="20" src="g_present.svg" /> 
 <img width="20" height="20" src="g_answer.svg" /> 
@@ -260,7 +262,7 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 잡다: <img width="30" height="30" src="g_capture.svg" /> / 
 쓸모: <img width="30" height="30" src="g_worth.svg" /> / 
 
-혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_courage.svg" /> 
 <img width="20" height="20" src="g_fear.svg" /> 
 <img width="20" height="20" src="g_attack.svg" /> 
@@ -275,7 +277,7 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 실드: <img width="30" height="30" src="g_shield.svg" /> / 
 결국: <img width="30" height="30" src="g_consequence.svg" /> / 
 
-혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_attack.svg" /> 
 <img width="20" height="20" src="g_path.svg" /> 
 <img width="20" height="20" src="g_more.svg" /> 
@@ -291,7 +293,7 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 학식: <img width="30" height="30" src="g_knowledge.svg" /> / 
 인텔: <img width="30" height="30" src="g_intelligence.svg" /> / 
 
-혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_victory.svg" /> 
 <img width="20" height="20" src="g_reincarnate.svg" /> 
 
@@ -300,12 +302,12 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 관련 글리프 그림과 뜻은 다음과 같습니다 : help. save. have. change. use. adapt.  
 도움: <img width="30" height="30" src="g_help.svg" /> / 
 저장: <img width="30" height="30" src="g_save.svg" /> / 
-가짐: <img width="30" height="30" src="g_have.svg" /> / 
+소유: <img width="30" height="30" src="g_have.svg" /> / 
 변함: <img width="30" height="30" src="g_change.svg" /> / 
 사용: <img width="30" height="30" src="g_use.svg" /> / 
 적응: <img width="30" height="30" src="g_adapt.svg" /> / 
 
-혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_share.svg" /> 
 <img width="20" height="20" src="g_message.svg" /> 
 <img width="20" height="20" src="g_easy.svg" /> 
@@ -314,13 +316,13 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 ## Lesson 16 : gain. loss. begin. end. escape.
 **기본적 행위**  
 관련 글리프 그림과 뜻은 다음과 같습니다 : gain. loss. begin. end. escape.  
-습득: <img width="30" height="30" src="g_gain.svg" /> / 
+획득: <img width="30" height="30" src="g_gain.svg" /> / 
 분실: <img width="30" height="30" src="g_loss.svg" /> / 
 시작: <img width="30" height="30" src="g_begin.svg" /> / 
 끝냄: <img width="30" height="30" src="g_end.svg" /> / 
 탈출: <img width="30" height="30" src="g_escape.svg" /> / 
 
-혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_see.svg" /> 
 <img width="20" height="20" src="g_forget.svg" /> 
 <img width="20" height="20" src="g_ignore.svg" /> 
@@ -337,7 +339,7 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 새것: <img width="30" height="30" src="g_new.svg" /> / 
 옛것: <img width="30" height="30" src="g_old.svg" /> / 
 
-혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_before.svg" /> 
 <img width="20" height="20" src="g_after.svg" /> 
 <img width="20" height="20" src="g_equal.svg" /> 
@@ -353,7 +355,7 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 공포: <img width="30" height="30" src="g_fear.svg" /> / 
 숨김: <img width="30" height="30" src="g_hide.svg" /> / 
 
-혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_conflict.svg" /> 
 
 ## Lesson 19 : danger. chaos. conflict. harm. technology.
@@ -365,7 +367,7 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 가해: <img width="30" height="30" src="g_harm.svg" /> / 
 테크: <img width="30" height="30" src="g_technology.svg" /> / 
 
-혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_nzeer.svg" /> 
 <img width="20" height="20" src="g_journey.svg" /> 
 <img width="20" height="20" src="g_courage.svg" /> 
@@ -380,19 +382,19 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 쉬운: <img width="30" height="30" src="g_easy.svg" /> / 
 어려운: <img width="30" height="30" src="g_difficult.svg" /> / 
 
-혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_lie.svg" /> 
 
-## Lesson 21 : lead. follow. avoid. contemplate. separate.
-**흐름과 따름**  
-관련 글리프 그림과 뜻은 다음과 같습니다 : lead. follow. avoid. contemplate. separate.  
+## Lesson 21 : lead. follow. contemplate. avoid. separate.
+**조직과 차별**  
+관련 글리프 그림과 뜻은 다음과 같습니다 : lead. follow. contemplate. avoid. separate.  
 이끔: <img width="30" height="30" src="g_lead.svg" /> / 
 따름: <img width="30" height="30" src="g_follow.svg" /> / 
-배제: <img width="30" height="30" src="g_avoid.svg" /> / 
 고려: <img width="30" height="30" src="g_contemplate.svg" /> / 
+배제: <img width="30" height="30" src="g_avoid.svg" /> / 
 분리: <img width="30" height="30" src="g_separate.svg" /> / 
 
-혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_failure.svg" /> 
 
 ## Lesson 22 : before. after. potential. repeat. interrupt.
@@ -400,11 +402,11 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 관련 글리프 그림과 뜻은 다음과 같습니다 : before. after. potential. repeat. interrupt.  
 전에: <img width="30" height="30" src="g_before.svg" /> / 
 후에: <img width="30" height="30" src="g_after.svg" /> / 
-가능성: <img width="30" height="30" src="g_potential.svg" /> / 
+가능성: <img width="30" height="30" src="g_potential.svg" /> 포텐 / 
 반복: <img width="30" height="30" src="g_repeat.svg" /> / 
 껴듦: <img width="30" height="30" src="g_interrupt.svg" /> / 
 
-혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_nourish.svg" /> 
 <img width="20" height="20" src="g_recharge.svg" /> 
 <img width="20" height="20" src="g_journey.svg" /> 
@@ -420,7 +422,7 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 전망: <img width="30" height="30" src="g_perspective.svg" /> / 
 무한: <img width="30" height="30" src="g_unbounded.svg" /> / 
 
-혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_harmony.svg" /> 
 <img width="20" height="20" src="g_shaper.svg" /> 
 
@@ -432,7 +434,7 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 검색: <img width="30" height="30" src="g_search.svg" /> / 
 대답: <img width="30" height="30" src="g_answer.svg" /> / 
 
-혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_weak.svg" /> 
 <img width="20" height="20" src="g_lie.svg" /> 
 <img width="20" height="20" src="g_body.svg" /> 
@@ -447,7 +449,7 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 저기로: <img width="30" height="30" src="g_destination.svg" /> / 
 발견: <img width="30" height="30" src="g_discover.svg" /> / 
 
-혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_chaos.svg" /> 
 <img width="20" height="20" src="g_consequence.svg" /> 
 <img width="20" height="20" src="g_potential.svg" /> 
@@ -462,7 +464,7 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 다치워: <img width="30" height="30" src="g_clearall.svg" /> / 
 다열어: <img width="30" height="30" src="g_openall.svg" /> / 
 
-혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_field.svg" /> 
 
 ## Lesson 27 : link. field. key. star. sheld.
@@ -474,9 +476,15 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 스타: <img width="30" height="30" src="g_star.svg" /> / 
 실드: <img width="30" height="30" src="g_shield.svg" /> / 
 
-혼동 유의 : 이들 중 아래 글리프와 혼동되는 것이 있는지 점검하고, 정확한 꼭지점 위치를 다시 익히길 권장합니다.  
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_open.svg" /> 
 <img width="20" height="20" src="g_truth.svg" /> 
 <img width="20" height="20" src="g_impure.svg" /> 
 
-todo : 메시지. 데이터. 꽝. 
+## Lesson 28 : .
+**유니크 및 이벤트**  
+관련 글리프 그림과 뜻은 다음과 같습니다 : .  
+: <img width="30" height="30" src="g_osiris.svg" /> / 
+: <img width="30" height="30" src="g_nemesis.svg" /> / 
+: <img width="30" height="30" src="g_toast.svg" /> / 
+
