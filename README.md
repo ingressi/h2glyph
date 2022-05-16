@@ -465,23 +465,35 @@ inperfect 결함 <img width="20" height="20" src="g_inperfect.svg" /> 글리프�
 ## Lesson 21 : lead. follow. contemplate. avoid. separate.
 **조직과 차별**  
 관련 글리프 그림과 뜻은 다음과 같습니다 : lead. follow. contemplate. avoid. separate.  
-이끔: <img width="30" height="30" src="g_lead.svg" /> / 
-따름: <img width="30" height="30" src="g_follow.svg" /> / 
-고려: <img width="30" height="30" src="g_contemplate.svg" /> / 
-배제: <img width="30" height="30" src="g_avoid.svg" /> / 
-분리: <img width="30" height="30" src="g_separate.svg" /> / 
+이끔: <img width="30" height="30" src="g_lead.svg" /> 리더에게는 한 획이 더 많습니다.  
+따름: <img width="30" height="30" src="g_follow.svg" /> 리더보다 한 획 적은 대칭글리프.  
+고려: <img width="30" height="30" src="g_contemplate.svg" /> 고려 지도와 비슷하다고 우겨봅니다;;  
+배제: <img width="30" height="30" src="g_avoid.svg" /> 찌그러진 알파벳 M자.  
+분리: <img width="30" height="30" src="g_separate.svg" /> 이중에 비교적 직관적인 상형 글리프.  
+
+조직이 있으면 이끄는 자가 <img width="20" height="20" src="g_lead.svg" /> 있고 
+따르는 자들이 <img width="20" height="20" src="g_follow.svg" /> 있고 조직 내에 서로를 
+<img width="20" height="20" src="g_comtemplate.svg" /> 배려합니다. 
+다르다면 틀리다며 배제하고 <img width="20" height="20" src="g_avoid.svg" /> 
+차별하며 <img width="20" height="20" src="g_separate.svg" /> 분리하려 하겠죠.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_failure.svg" /> 
+<img width="20" height="20" src="g_repeat.svg" /> 
 
 ## Lesson 22 : before. after. potential. repeat. interrupt.
 **순차와 가능성**  
 관련 글리프 그림과 뜻은 다음과 같습니다 : before. after. potential. repeat. interrupt.  
-전에: <img width="30" height="30" src="g_before.svg" /> / 
-후에: <img width="30" height="30" src="g_after.svg" /> / 
-가능성: <img width="30" height="30" src="g_potential.svg" /> 포텐 / 
-반복: <img width="30" height="30" src="g_repeat.svg" /> / 
-껴듦: <img width="30" height="30" src="g_interrupt.svg" /> / 
+전에: <img width="30" height="30" src="g_before.svg" /> 과거를 향한 삼각형.  
+후에: <img width="30" height="30" src="g_after.svg" /> 미래를 향한 삼각형.  
+가능성: <img width="30" height="30" src="g_potential.svg" /> 가능성을 담은 오른쪽 주머니.  
+반복: <img width="30" height="30" src="g_repeat.svg" /> 산넘어 산으로 반복되는 파형 그래프.  
+껴듦: <img width="30" height="30" src="g_interrupt.svg" /> 껴드는 듯한 아이콘.  
+
+나름 직관적인 글리프들입니다.  
+<img width="20" height="20" src="g_potential.svg" /> 가능성은 줄여서 "포텐"으로 읽어도 좋습니다.
+참고로 인터럽트(껴들기) <img width="20" height="20" src="g_interrupt.svg" /> 글리프는 
+문장에 거의 안나옵니다.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_nourish.svg" /> 
