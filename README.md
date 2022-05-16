@@ -183,7 +183,7 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 
 숨쉼 글리프<img width="20" height="20" src="g_breathe.svg" />는 LIVE라는 뜻으로도 쓰입니다. 
 진화 글리프<img width="20" height="20" src="g_evolution.svg" />는 알파벳 N과 유사한데, 
-다른 글리프도 N과 유사한 것<img width="20" height="15" src="g_message.svg" />이 있으니 주의해야 합니다.
+다른 글리프도 N과 유사한 것<img width="15" height="15" src="g_message.svg" />이 있으니 주의해야 합니다.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_self.svg" /> 
@@ -265,7 +265,7 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 안에: <img width="30" height="30" src="g_inside.svg" /> inside와 not 두가지 단어의 동음이의 글리프.  
 균형: <img width="30" height="30" src="g_balance.svg" /> 끈에 균형추 매달린 모습의 밸런스.  
 
-inside 글리프 <img width="20" height="20" src="g_rebel.svg" /> 경우는 완전히 다른 두가지 뜻인 동음이의어입니다. 
+inside 글리프 <img width="20" height="20" src="g_inside.svg" /> 경우는 완전히 다른 두가지 뜻인 동음이의어입니다. 
 한국어에서는 그나마 나은 것이 "안에"와 "아니"의 발음이 유사하므로 둘 사이 발음으로 뭉게어 읽으면 됩니다.  
 균형의 발랜스 <img width="20" height="20" src="g_balance.svg" /> 글리프는 "완벽한-perfect" 뜻으로 
 자주 나오지만, 그림의 직관성을 위해 그냥 균형(추)로 외워도 문장에서 뜻이 잘 통하는 편입니다.
@@ -301,11 +301,18 @@ inside 글리프 <img width="20" height="20" src="g_rebel.svg" /> 경우는 완�
 ## Lesson 13 : safety. stay. barrier. shield. consequence.
 **보호와 안정**  
 관련 글리프 그림과 뜻은 다음과 같습니다 : safety. stay. barrier. shield. consequence.  
-안전: <img width="30" height="30" src="g_safety.svg" /> / 
-머뭄: <img width="30" height="30" src="g_stay.svg" /> / 
-장벽: <img width="30" height="30" src="g_barrier.svg" /> / 
-실드: <img width="30" height="30" src="g_shield.svg" /> / 
-결국: <img width="30" height="30" src="g_consequence.svg" /> / 
+안전: <img width="30" height="30" src="g_safety.svg" /> 텐트같은 안전가옥.  
+머뭄: <img width="30" height="30" src="g_stay.svg" /> 앉고 누울 수 있는 평평한 바닥.  
+장벽: <img width="30" height="30" src="g_barrier.svg" /> 못 지나가게 막은 벽과 장애물.  
+실드: <img width="30" height="30" src="g_shield.svg" /> 공격을 막아내는 큰 방패.  
+결국: <img width="30" height="30" src="g_consequence.svg" /> 물이 흐르다 고이다 다시 흐르는 경사.
+
+안전함, 머물만한 평평함 등은 직관적인 모양입니다.  
+장벽의 경우 <img width="20" height="20" src="g_barrier.svg" /> 직관적이진 않지만, 
+좌우대칭 반대어의 어감을 갖추고 있습니다. 장소 간에 지나다닐 수 있게 하는 것이 
+"길 <img width="20" height="20" src="g_path.svg" />" 이라면, 지나다니지 못하게 막는 것이
+<img width="20" height="20" src="g_die.barrier" /> 장벽이기 때문입니다. 장벽 글리프의 
+영어단어 뜻에 "보호막"이 있어서 보호막이라는 의미로도 퀴즈에 나오지만, 장벽으로 읽어도 무난합니다.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_attack.svg" /> 
@@ -317,11 +324,19 @@ inside 글리프 <img width="20" height="20" src="g_rebel.svg" /> 경우는 완�
 ## Lesson 14 : truth. lie. idea. knowledge. intelligence.
 **진실과 지식**  
 관련 글리프 그림과 뜻은 다음과 같습니다 : truth. lie. idea. knowledge. intelligence.  
-진실: <img width="30" height="30" src="g_truth.svg" /> / 
-거짓: <img width="30" height="30" src="g_lie.svg" /> / 
-생각: <img width="30" height="30" src="g_idea.svg" /> / 
-학식: <img width="30" height="30" src="g_knowledge.svg" /> / 
-인텔: <img width="30" height="30" src="g_intelligence.svg" /> / 
+진실: <img width="30" height="30" src="g_truth.svg" /> 나비 모양의 진실과 진리. 
+거짓: <img width="30" height="30" src="g_lie.svg" /> 진실의 왼쪽 아래를 빼먹으면 거짓. 
+생각: <img width="30" height="30" src="g_idea.svg" /> 크게 그려보며 엉성해도 무한히 확장해보는 아이디어. 
+학식: <img width="30" height="30" src="g_knowledge.svg" /> 지식의 상아탑. 
+인텔: <img width="30" height="30" src="g_intelligence.svg" /> 마법사 모자같은 인텔리젼스. 
+
+<img width="20" height="20" src="g_knowledge.svg" /> 글리프는 여러가지 이름과 별명이 많습니다.  
+전체적으로 우리가 그리게 되는 글리프는 100가지를 훨씬 넘고 200가지는 안되는 편입니다. 
+경우의 수가 많은 의미와 상형을 지녔으므로, 글리프의 이름이나 별명을 잘못 선택하여 외우게 되면 
+나중에 4~5개의 글리프를 빨리 그려야 할 때에 단어가 혼동되기 시작합니다. 
+작고 사소한 부분인데도, 예를 들어 <img width="15" height="15" src="g_knowledge.svg" />를
+"지식"으로 읽었는데 5개짜리 문장에서 순간적으로 "진실이었더라 지식이었더라" 이렇게 혼동된다던지.  
+그래서 발음이나 상형 의미 상 혼동되지 않도록 외우는 요령이 필요합니다.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_victory.svg" /> 
