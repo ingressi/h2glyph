@@ -578,12 +578,15 @@ Discover 발견의 첫 발음과 우연히 동일하게 알파벳 D의 모양입
 
 ## Lesson 27 : link. field. key. star. sheld.
 **링크 필드 작업**  
-관련 글리프 그림과 뜻은 다음과 같습니다 : link. field. key. star. sheld.  
-링크: <img width="30" height="30" src="g_link.svg" /> / 
-필드: <img width="30" height="30" src="g_field.svg" /> / 
-열쇠: <img width="30" height="30" src="g_key.svg" /> / 
-스타: <img width="30" height="30" src="g_star.svg" /> / 
-실드: <img width="30" height="30" src="g_shield.svg" /> / 
+관련 글리프 그림과 뜻은 다음과 같습니다 : link. field. key. star.  
+링크: <img width="30" height="30" src="g_link.svg" /> 포탈 위를 길게 잇는 링크 밴드.  
+필드: <img width="30" height="30" src="g_field.svg" /> 링크가 3개 이어진 삼강혁 필드.  
+열쇠: <img width="30" height="30" src="g_key.svg" /> 포탈키는 포탈을 다룰 열쇠.  
+스타: <img width="30" height="30" src="g_star.svg" /> 초신성 노바같은 앵커 포탈.  
+
+매일 벌어지고 있는 링크와 필드 접전에서 익숙한 개념어휘들입니다. 
+NEMESIS 이벤트 등에서 추가된 이들 신생 글리프에는 <img width="20" height="20" src="g_shield.svg" />
+shild 글리프도 있습니다.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_open.svg" /> 
@@ -593,8 +596,8 @@ Discover 발견의 첫 발음과 우연히 동일하게 알파벳 D의 모양입
 ## Lesson 28 : .
 **유니크 및 이벤트**  
 관련 글리프 그림과 뜻은 다음과 같습니다 : .  
-: <img width="30" height="30" src="g_osiris.svg" /> / 
-: <img width="30" height="30" src="g_nemesis.svg" /> / 
-: <img width="30" height="30" src="g_toast.svg" /> / 
+오시리스: <img width="30" height="30" src="g_osiris.svg" />  이집트 피라미드에 박힌...  
+네메시스: <img width="30" height="30" src="g_nemesis.svg" /> 천칭 혹은 모래시계.  
+토스트: <img width="30" height="30" src="g_toast.svg" /> 식빵.  
 
 Todo: deprecated. call. creativity. chase. response. sustain. heart. 
