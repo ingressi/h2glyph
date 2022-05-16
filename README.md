@@ -203,7 +203,7 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 승리: <img width="30" height="30" src="g_victory.svg" /> V자 위에 고깔 씌운 승리.  
 
 결국 진영전이기 때문에 글리프가 3~5개인 문장에는 공격하라/방어하라는 지령이 많이 등장합니다. 
-가장 커다랗게 그릴 수 있는 위/아래 꺽쇠<img width="20" height="20" src="g_attack.svg" /> <img width="20" height="20" src="g_depend.svg" />가 전쟁과 방어를 뜻하며, 승리<img width="20" height="20" src="g_victory.svg" />와 패배를 뜻하는 글리프가 별도로 있습니다. 
+가장 커다랗게 그릴 수 있는 위/아래 꺽쇠<img width="20" height="20" src="g_attack.svg" /> <img width="20" height="20" src="g_defend.svg" />가 전쟁과 방어를 뜻하며, 승리<img width="20" height="20" src="g_victory.svg" />와 패배를 뜻하는 글리프가 별도로 있습니다. 
 ("패배" 글리프는 "분실"과 같은 모양<img width="15" height="15" src="g_loss.svg" /> 이라서 여기에서는 다루지 않습니다.)
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
