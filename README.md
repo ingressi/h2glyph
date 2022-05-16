@@ -305,13 +305,13 @@ inside 글리프 <img width="20" height="20" src="g_inside.svg" /> 경우는 완
 머뭄: <img width="30" height="30" src="g_stay.svg" /> 앉고 누울 수 있는 평평한 바닥.  
 장벽: <img width="30" height="30" src="g_barrier.svg" /> 못 지나가게 막은 벽과 장애물.  
 실드: <img width="30" height="30" src="g_shield.svg" /> 공격을 막아내는 큰 방패.  
-결국: <img width="30" height="30" src="g_consequence.svg" /> 물이 흐르다 고이다 다시 흐르는 경사.
+결국: <img width="30" height="30" src="g_consequence.svg" /> 물이 흐르다 고이다 결국 다시 흐르는 경사.
 
 안전함, 머물만한 평평함 등은 직관적인 모양입니다.  
 장벽의 경우 <img width="20" height="20" src="g_barrier.svg" /> 직관적이진 않지만, 
 좌우대칭 반대어의 어감을 갖추고 있습니다. 장소 간에 지나다닐 수 있게 하는 것이 
 "길 <img width="20" height="20" src="g_path.svg" />" 이라면, 지나다니지 못하게 막는 것이
-<img width="20" height="20" src="g_die.barrier" /> 장벽이기 때문입니다. 장벽 글리프의 
+<img width="20" height="20" src="g_die.barrier.svg" /> 장벽이기 때문입니다. 장벽 글리프의 
 영어단어 뜻에 "보호막"이 있어서 보호막이라는 의미로도 퀴즈에 나오지만, 장벽으로 읽어도 무난합니다.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
