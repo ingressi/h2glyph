@@ -367,8 +367,8 @@ use 글리프도 문장에는 자주 나오지 않으나, 막상 드물게 나�
 ## Lesson 16 : gain. loss. begin. end. escape.
 **기본적 행위**  
 관련 글리프 그림과 뜻은 다음과 같습니다 : gain. loss. begin. end. escape.  
-획득: <img width="30" height="30" src="g_gain.svg" /> 왼쪽 손.  
-분실: <img width="30" height="30" src="g_loss.svg" /> 오른쪽 손.  
+획득: <img width="30" height="30" src="g_gain.svg" /> 왼쪽 팔.  
+분실: <img width="30" height="30" src="g_loss.svg" /> 오른쪽 팔.  
 시작: <img width="30" height="30" src="g_begin.svg" /> 낚시를 시작해볼까.  
 끝냄: <img width="30" height="30" src="g_end.svg" /> 크게 접은 모양.  
 탈출: <img width="30" height="30" src="g_escape.svg" /> 비상탈출.  
@@ -390,14 +390,18 @@ weak 글리프 좌우대칭 모양이 안에 숨어 있는데, 맥락은 불분�
 <img width="20" height="20" src="g_retreat.svg" /> 
 <img width="20" height="20" src="g_weak.svg" /> 
 
-## Lesson 17 : past. present. future. new. old.
+## Lesson 17 : past. present. future. old. new.
 **시간**  
-관련 글리프 그림과 뜻은 다음과 같습니다 : past. present. future. new. old.  
-과거: <img width="30" height="30" src="g_past.svg" /> / 
-현재: <img width="30" height="30" src="g_present.svg" /> / 
-미래: <img width="30" height="30" src="g_future.svg" /> / 
-새것: <img width="30" height="30" src="g_new.svg" /> / 
-옛것: <img width="30" height="30" src="g_old.svg" /> / 
+관련 글리프 그림과 뜻은 다음과 같습니다 : past. present. future. old. new.  
+과거: <img width="30" height="30" src="g_past.svg" /> 왼쪽을 향해 열린 각.  
+현재: <img width="30" height="30" src="g_present.svg" /> 지금 밟고 서서 고인 곳.  
+미래: <img width="30" height="30" src="g_future.svg" /> 오른쪽으로 열린 각.  
+옛것: <img width="30" height="30" src="g_old.svg" /> 과거 글리프에 하류 획이 없음.  
+새것: <img width="30" height="30" src="g_new.svg" /> 미래 글리프에 상류 획이 없음.  
+
+나름 직관적이고, 서로 함께 얽혀 나오는 일이 많은 시간축의 의미들.  
+옛것과 새것 <img width="20" height="20" src="g_old.svg" /> <img width="20" height="20" src="g_new.svg" /> 
+글리프에서 어느 획이 빠지는지만 확실히 익혀두면 대략 무난함.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_before.svg" /> 
@@ -409,11 +413,15 @@ weak 글리프 좌우대칭 모양이 안에 숨어 있는데, 맥락은 불분�
 ## Lesson 18 : grow. reduce. courage. fear. hide.
 **용기와 공포**  
 관련 글리프 그림과 뜻은 다음과 같습니다 : grow. reduce. courage. fear. hide.  
-증대: <img width="30" height="30" src="g_grow.svg" /> / 
-감소: <img width="30" height="30" src="g_reduce.svg" /> / 
-용기: <img width="30" height="30" src="g_courage.svg" /> / 
-공포: <img width="30" height="30" src="g_fear.svg" /> / 
-숨김: <img width="30" height="30" src="g_hide.svg" /> / 
+증대: <img width="30" height="30" src="g_grow.svg" /> 왼쪽 이빨이 자라는 모양.  
+감소: <img width="30" height="30" src="g_reduce.svg" /> 오른쪽 대칭으로 반대말.  
+용기: <img width="30" height="30" src="g_courage.svg" /> 이빨을 물고 자라나는 용기.  
+공포: <img width="30" height="30" src="g_fear.svg" /> 드라큐라 이빨에 물릴까봐 공포.  
+숨김: <img width="30" height="30" src="g_hide.svg" /> 누구나 마음에 숨긴 썩은 미소 하나쯤.  
+
+이 글리프들 중 감소의 <img width="20" height="20" src="g_reduce.svg" /> 경우는 문장에서
+거의 나오지 않으므로 나머지만 직관적으로 익혀두면 됩니다.  
+우연히도 가운데 점을 통과하는게 하나도 없는 레슨이군요.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_conflict.svg" /> 
