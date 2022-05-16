@@ -543,11 +543,18 @@ inperfect 결함 <img width="20" height="20" src="g_imperfect.svg" /> 글리프�
 ## Lesson 25 : journey. path. outside. destination. discover.
 **여행**  
 관련 글리프 그림과 뜻은 다음과 같습니다 : journey. path. outside. destination. discover.  
-여행: <img width="30" height="30" src="g_journey.svg" /> / 
-경로: <img width="30" height="30" src="g_path.svg" /> / 
-바깥: <img width="30" height="30" src="g_outside.svg" /> / 
-저기로: <img width="30" height="30" src="g_destination.svg" /> / 
-발견: <img width="30" height="30" src="g_discover.svg" /> / 
+여행: <img width="30" height="30" src="g_journey.svg" /> 그리다 만 하트. 여행은 미완성의 사랑.  
+경로: <img width="30" height="30" src="g_path.svg" /> 가운데 점을 거치는 길다란 길들.  
+바깥: <img width="30" height="30" src="g_outside.svg" /> 육각형 밖으로 튀어나갈 듯한.  
+저기로: <img width="30" height="30" src="g_destination.svg" /> 목적지라는 뜻의 글리프.  
+발견: <img width="30" height="30" src="g_discover.svg" /> Discover!  
+
+갈수 있게 하는 것이 <img width="20" height="20" src="g_path.svg" /> 길(경로)이고 
+못가게 막는 것이 <img width="20" height="20" src="g_barrier.svg" /> 장벽이라는 레슨이 있었습니다.  
+<img width="20" height="20" src="g_outside.svg" /> 멀리 바깥의 회전 대칭 글리프는 
+<img width="20" height="20" src="g_destination.svg" /> 목적지가 됩니다. 
+목적지에서 하나 더 하면 뭔가 "발견"할 수 있습니다. <img width="20" height="20" src="g_discover.svg" /> 
+Discover 발견의 첫 발음과 우연히 동일하게 알파벳 D의 모양입니다.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_chaos.svg" /> 
@@ -558,11 +565,13 @@ inperfect 결함 <img width="20" height="20" src="g_imperfect.svg" /> 글리프�
 ## Lesson 26 : all. open. clear. clearall. openall.
 **치우기 열기**  
 관련 글리프 그림과 뜻은 다음과 같습니다 : all. open. clear. clearall. openall.  
-죄다: <img width="30" height="30" src="g_all.svg" /> / 
-열려: <img width="30" height="30" src="g_open.svg" /> / 
-치워: <img width="30" height="30" src="g_clear.svg" /> / 
-다치워: <img width="30" height="30" src="g_clearall.svg" /> / 
-다열어: <img width="30" height="30" src="g_openall.svg" /> / 
+모두: <img width="30" height="30" src="g_all.svg" /> 이 안에 모든 것 all이 다 들었음.  
+열려: <img width="30" height="30" src="g_open.svg" /> 구멍이 뚫려 열린 모습.  
+치워: <img width="30" height="30" src="g_clear.svg" /> 위부터 쓸어내려 클리어.  
+다치워: <img width="30" height="30" src="g_clearall.svg" /> "all+치워" 합성어 글리프.  
+다열어: <img width="30" height="30" src="g_openall.svg" /> "all+열어" 합성어 글리프.  
+
+모두 직관적이므로 외우기 쉬운 글리프들입니다.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_field.svg" /> 
