@@ -324,11 +324,11 @@ inside 글리프 <img width="20" height="20" src="g_inside.svg" /> 경우는 완
 ## Lesson 14 : truth. lie. idea. knowledge. intelligence.
 **진실과 지식**  
 관련 글리프 그림과 뜻은 다음과 같습니다 : truth. lie. idea. knowledge. intelligence.  
-진실: <img width="30" height="30" src="g_truth.svg" /> 나비 모양의 진실과 진리. 
-거짓: <img width="30" height="30" src="g_lie.svg" /> 진실의 왼쪽 아래를 빼먹으면 거짓. 
-생각: <img width="30" height="30" src="g_idea.svg" /> 크게 그려보며 엉성해도 무한히 확장해보는 아이디어. 
-학식: <img width="30" height="30" src="g_knowledge.svg" /> 지식의 상아탑. 
-인텔: <img width="30" height="30" src="g_intelligence.svg" /> 마법사 모자같은 인텔리젼스. 
+진실: <img width="30" height="30" src="g_truth.svg" /> 나비 모양의 진실과 진리.  
+거짓: <img width="30" height="30" src="g_lie.svg" /> 진실의 왼쪽 아래를 빼먹으면 거짓.  
+생각: <img width="30" height="30" src="g_idea.svg" /> 크게 그려보며 엉성해도 무한히 확장해보는 아이디어.  
+학식: <img width="30" height="30" src="g_knowledge.svg" /> 지식의 상아탑.  
+인텔: <img width="30" height="30" src="g_intelligence.svg" /> 마법사 모자같은 인텔리젼스.  
 
 <img width="20" height="20" src="g_knowledge.svg" /> 글리프는 여러가지 이름과 별명이 많습니다.  
 전체적으로 우리가 그리게 되는 글리프는 100가지를 훨씬 넘고 200가지는 안되는 편입니다. 
@@ -345,12 +345,18 @@ inside 글리프 <img width="20" height="20" src="g_inside.svg" /> 경우는 완
 ## Lesson 15 : help. save. have. change. use. adapt.
 **적극적 동사**  
 관련 글리프 그림과 뜻은 다음과 같습니다 : help. save. have. change. use. adapt.  
-도움: <img width="30" height="30" src="g_help.svg" /> / 
-저장: <img width="30" height="30" src="g_save.svg" /> / 
-소유: <img width="30" height="30" src="g_have.svg" /> / 
-변함: <img width="30" height="30" src="g_change.svg" /> / 
-사용: <img width="30" height="30" src="g_use.svg" /> / 
-적응: <img width="30" height="30" src="g_adapt.svg" /> / 
+도움: <img width="30" height="30" src="g_help.svg" /> 점프를 도와주는 발구름판 스프링 같은 모양.  
+저장: <img width="30" height="30" src="g_save.svg" /> 구원 save, 저장 save, 시옷 세이브.  
+소유: <img width="30" height="30" src="g_have.svg" /> 가지고 싶은 몸짓.  
+변함: <img width="30" height="30" src="g_change.svg" /> 이쪽 저쪽 갈짓자 변화.  
+사용: <img width="30" height="30" src="g_use.svg" /> 오른쪽으로 손을 들어 사용.  
+적응: <img width="30" height="30" src="g_adapt.svg" /> 구원하다의 반댓은 적응하다.  
+
+막연히 외워야 하는 동사들이나, 일부는 억지스럽게 상형 의미를 둘 수 있습니다.  
+마지막 적응 <img width="20" height="20" src="g_adapt.svg" /> 글리프의 경우 문장에서는 거의 
+나오지 않으니 나머지 4개만 익히면 됩니다. <img width="20" height="20" src="g_use.svg" /> 
+use 글리프도 문장에는 자주 나오지 않으나, 막상 드물게 나오면 꼭지점의 위치가 헷갈리기도 합니다. 
+정가운데 점에서 시작함을 외워둡니다.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_share.svg" /> 
@@ -361,11 +367,20 @@ inside 글리프 <img width="20" height="20" src="g_inside.svg" /> 경우는 완
 ## Lesson 16 : gain. loss. begin. end. escape.
 **기본적 행위**  
 관련 글리프 그림과 뜻은 다음과 같습니다 : gain. loss. begin. end. escape.  
-획득: <img width="30" height="30" src="g_gain.svg" /> / 
-분실: <img width="30" height="30" src="g_loss.svg" /> / 
-시작: <img width="30" height="30" src="g_begin.svg" /> / 
-끝냄: <img width="30" height="30" src="g_end.svg" /> / 
-탈출: <img width="30" height="30" src="g_escape.svg" /> / 
+획득: <img width="30" height="30" src="g_gain.svg" /> 왼쪽 손.  
+분실: <img width="30" height="30" src="g_loss.svg" /> 오른쪽 손.  
+시작: <img width="30" height="30" src="g_begin.svg" /> 낚시를 시작해볼까.  
+끝냄: <img width="30" height="30" src="g_end.svg" /> 크게 접은 모양.  
+탈출: <img width="30" height="30" src="g_escape.svg" /> 비상탈출.  
+
+처음에 보다(see) <img width="15" height="15" src="g_see.svg" /> 레슨에서 혼동 가능한 
+짧은 선 글리프들이 있다고 소개했었고, see에는 대칭 반대어가 없다고 했습니다. 
+획득와 분실 글리프는 <img width="20" height="20" src="g_gain.svg" /> 
+<img width="20" height="20" src="g_loss.svg" /> 서로 대칭이자 반대말입니다.  
+헌데 시작과 끝은 <img width="20" height="20" src="g_begin.svg" /> 
+<img width="20" height="20" src="g_end.svg" /> 서로 명확한 반대어임에도 불구하고 
+대칭이 아니어서 의아합니다. 탈출 글리프는 <img width="20" height="20" src="g_escape.svg" /> 
+weak 글리프 좌우대칭 모양이 안에 숨어 있는데, 맥락은 불분명합니다.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_see.svg" /> 
