@@ -44,8 +44,8 @@ Tip: 연달아 나오는 글리프를 보면서 외울 때에, 모르는 모양 
 ## Lesson 1 : shaper. nzeer. human. enlightened. resist.  
 **외계인 및 인류의 진영.**  
 인그레스의 스토리에서는 다른 차원의 지적존재가 지구의 인류에게 메시지 및 창조력 등을 전달하려 합니다.  
-다른 차원에 인류를 강화 개량하려하는 쉐이퍼(shaper)라는 존재가 있고, 
-쉐이퍼에게 반목하는 엔지얼(n'zeer)이라는 존재가 서로 경쟁하면서 인류에게 메시지를 전달합니다.
+다른 차원에 인류를 강화 개량하려하는 쉐이퍼shaper라는 존재가 있고, 
+쉐이퍼에게 반목하는 엔지얼n'zeer이라는 존재가 서로 경쟁하면서 인류에게 메시지를 전달합니다.
 
 쉐이퍼의 문명 받아들이자는 인류 진영(faction)은 계몽군(enlightened)으로서 활동하고,  
 외계문명을 배척하자는 인류 진영은 반군(resistant, resistance)으로서 활동합니다.  
@@ -181,9 +181,9 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 진화: <img width="30" height="30" src="g_evolution.svg" /> 세대를 거쳐 계단식 발전을 이루는 진화의 모습.  
 실패: <img width="30" height="30" src="g_failure.svg" /> 좌우 대칭으로 반대 뉘앙스인 실패의 뜻.  
 
-숨쉼 글리프(<img width="20" height="20" src="g_breathe.svg" />)는 LIVE라는 뜻으로도 쓰입니다. 
-진화 글리프(<img width="20" height="20" src="g_evolution.svg" />)는 알파벳 N과 유사한데, 
-다른 글리프도 N과 유사한 것(<img width="20" height="15" src="g_message.svg" />)이 있으니 주의해야 합니다.
+숨쉼 글리프<img width="20" height="20" src="g_breathe.svg" />는 LIVE라는 뜻으로도 쓰입니다. 
+진화 글리프<img width="20" height="20" src="g_evolution.svg" />는 알파벳 N과 유사한데, 
+다른 글리프도 N과 유사한 것<img width="20" height="15" src="g_message.svg" />이 있으니 주의해야 합니다.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_self.svg" /> 
@@ -203,7 +203,7 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 승리: <img width="30" height="30" src="g_victory.svg" /> V자 위에 고깔 씌운 승리.  
 
 결국 진영전이기 때문에 글리프가 3~5개인 문장에는 공격하라/방어하라는 지령이 많이 등장합니다. 
-가장 커다랗게 그릴 수 있는 위/아래 꺽쇠(<img width="20" height="20" src="g_attack.svg" /> <img width="20" height="20" src="g_depend.svg" /> )가 전쟁과 방어를 뜻하며, 승리(<img width="20" height="20" src="g_victory.svg" />)와 패배를 뜻하는 글리프가 별도로 있습니다. 
+가장 커다랗게 그릴 수 있는 위/아래 꺽쇠<img width="20" height="20" src="g_attack.svg" /> <img width="20" height="20" src="g_depend.svg" />가 전쟁과 방어를 뜻하며, 승리<img width="20" height="20" src="g_victory.svg" />와 패배를 뜻하는 글리프가 별도로 있습니다. 
 ("패배" 글리프는 "분실"과 같은 모양<img width="15" height="15" src="g_loss.svg" /> 이라서 여기에서는 다루지 않습니다.)
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
@@ -242,11 +242,11 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 간호: <img width="30" height="30" src="g_nourish.svg" /> 좌하단 삼각형은 영양분, 조장, 키우다 같은 뜻.   
 충전: <img width="30" height="30" src="g_recharge.svg" /> 좌상단 삼각형은 리챠지 하는 뜻.
 
-조화 글리프의 경우 (<img width="20" height="20" src="g_harmony.svg" />) 평화롭고 조화로운 여러 뜻인데, 
+조화 글리프의 경우 <img width="20" height="20" src="g_harmony.svg" /> 평화롭고 조화로운 여러 뜻인데, 
 주로 peace로 표기될 때가 많습니다. 이 발음으로 읽게 되면 다른 발음이 유사한 단어들과 혼동하는 순간이 생기므로, 
 처음부터 조화(혹은 하모니)로 익히는 것을 권장합니다. 글리프 모양도 공명하는 정상파의 모양입니다.  
-간호와 충전은 (<img width="20" height="20" src="g_nourish.svg" /> 
-<img width="20" height="20" src="g_recharge.svg" />) 상하 대칭이라고 볼 수 있습니다. 
+간호와 충전은 <img width="20" height="20" src="g_nourish.svg" /> 
+<img width="20" height="20" src="g_recharge.svg" /> 상하 대칭이라고 볼 수 있습니다. 
 대부분 반대 뜻이 되는 좌우 대칭과는 다르게, 상하 대칭은 반대가 아닌 뜻의 변형인 경우가 많습니다.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
@@ -259,11 +259,16 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 ## Lesson 11 : strong. weak. equal. inside. balance.
 **강함 약함 균형**  
 관련 글리프 그림과 뜻은 다음과 같습니다 : strong. weak. equal. inside. balance.  
-강한: <img width="30" height="30" src="g_strong.svg" /> / 
-약한: <img width="30" height="30" src="g_weak.svg" /> / 
-같은: <img width="30" height="30" src="g_equal.svg" /> / 
-안에: <img width="30" height="30" src="g_inside.svg" /> / 
-균형: <img width="30" height="30" src="g_balance.svg" /> / 
+강한: <img width="30" height="30" src="g_strong.svg" /> 밟아도 안부러지게 생긴 강한 네모.  
+약한: <img width="30" height="30" src="g_weak.svg" /> 세워두지도 못하게 생긴 약한 관절.  
+같은: <img width="30" height="30" src="g_equal.svg" /> 같다는 = 기호와 평등하다는 어감을 함께.  
+안에: <img width="30" height="30" src="g_inside.svg" /> inside와 not 두가지 단어의 동음이의 글리프.  
+균형: <img width="30" height="30" src="g_balance.svg" /> 끈에 균형추 매달린 모습의 밸런스.  
+
+inside 글리프 <img width="20" height="20" src="g_rebel.svg" /> 경우는 완전히 다른 두가지 뜻인 동음이의어입니다. 
+한국어에서는 그나마 나은 것이 "안에"와 "아니"의 발음이 유사하므로 둘 사이 발음으로 뭉게어 읽으면 됩니다.  
+균형의 발랜스 <img width="20" height="20" src="g_balance.svg" /> 글리프는 "완벽한-perfect" 뜻으로 
+자주 나오지만, 그림의 직관성을 위해 그냥 균형(추)로 외워도 문장에서 뜻이 잘 통하는 편입니다.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_rebel.svg" /> 
@@ -273,11 +278,19 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 ## Lesson 12 : pursue. liberate. want. capture. worth.
 **욕망과 자유**  
 관련 글리프 그림과 뜻은 다음과 같습니다 : pursue. liberate. want. capture. worth.  
-추구: <img width="30" height="30" src="g_pursue.svg" /> / 
-해방: <img width="30" height="30" src="g_liberate.svg" /> / 
-원함: <img width="30" height="30" src="g_want.svg" /> / 
-잡다: <img width="30" height="30" src="g_capture.svg" /> / 
-쓸모: <img width="30" height="30" src="g_worth.svg" /> / 
+추구: <img width="30" height="30" src="g_pursue.svg" /> 캡모자 모양을 쓰고 추구...  
+해방: <img width="30" height="30" src="g_liberate.svg" /> 열린 하늘로 자유롭게 방생.  
+원함: <img width="30" height="30" src="g_want.svg" /> 모자를 벗어 손에 들고 원함...  
+잡다: <img width="30" height="30" src="g_capture.svg" /> 빗자루 모양으로 잡아 가둠.  
+쓸모: <img width="30" height="30" src="g_worth.svg" /> 영어단어 worth의 알파벳 w.  
+
+그냥 외워야 하는 글리프들입니다. 앞서 레슨에서 좌우대칭은 반대어가 많고 
+상하 대칭은 활용 변형 의미가 많다고 말했듯이 <img width="20" height="20" src="g_pursue.svg" /> 
+추구하다 원하다 <img width="20" height="20" src="g_want.svg" /> 둘 사이는 상하대칭입니다. 
+해방하다 잡다 <img width="20" height="20" src="g_liberate.svg" /> <img width="20" height="20" src="g_capture.svg" /> 
+이 글리프는 회전 대칭이며 서로 반대말인 경우입니다.  
+쓸모의 경우 <img width="20" height="20" src="g_worth.svg" /> 가운데 점의 위치가 잘 안외워지는데, 
+육각 그리드 판의 중심점임을 기억하세요.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_courage.svg" /> 
