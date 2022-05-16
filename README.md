@@ -215,11 +215,16 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 ## Lesson 9 : forget. ignore. abandon. restraint. rebel.
 **기피**  
 관련 글리프 그림과 뜻은 다음과 같습니다 : forget. ignore. abandon. restraint. rebel.  
-망각: <img width="30" height="30" src="g_forget.svg" /> / 
-무시: <img width="30" height="30" src="g_ignore.svg" /> / 
-포기: <img width="30" height="30" src="g_abandon.svg" /> / 
-제한: <img width="30" height="30" src="g_restraint.svg" /> / 
-배신: <img width="30" height="30" src="g_rebel.svg" /> / 
+망각: <img width="30" height="30" src="g_forget.svg" /> 왼쪽 아래 점같은 망각 선분.  
+무시: <img width="30" height="30" src="g_ignore.svg" /> 잊을 수 없다면 무시하라는 뜻인 듯.  
+포기: <img width="30" height="30" src="g_abandon.svg" /> 긴장의 꺽쇠 괄호가 열리면 포기라는 뜻.  
+제한: <img width="30" height="30" src="g_restraint.svg" /> 꺽쇠 괄호를 닫으면 제한이란 뜻.  
+배신: <img width="30" height="30" src="g_rebel.svg" /> 삐딱하게 갈팡질팡하다가 절벽으로 단절되는 배신.  
+
+좌우대칭 반대말 글리프들을 전반적으로 보면, 왼쪽이 양의 부호 / 오른쪽이 음의 부호인 경향이 있습니다.  
+그런 뉘앙스로 익혀보자면, 스스로 잊을 수 있다면 긍정적인 것이고, 있는데도 무시하게 되는 상황은 부정적인 것입니다. 
+포기는 자의로 하는 것이니 양의 부호이고, 제한은 타의로 못하게 되는 것이니 음의 부호입니다.  
+이들은 다소 익히기 힘든 글리프들일 수 있는데, 3~4개 이상의 문장에서는 그다지 많이 나오지 않는 편입니다.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_see.svg" /> 
@@ -231,11 +236,18 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 
 ## Lesson 10 : together. share. harmony. nourish. recharge.
 **상생**  관련 글리프 그림과 뜻은 다음과 같습니다 : together. share. harmony. nourish. recharge.  
-함께: <img width="30" height="30" src="g_together.svg" /> / 
-공유: <img width="30" height="30" src="g_share.svg" /> / 
-조화: <img width="30" height="30" src="g_harmony.svg" /> / 
-간호: <img width="30" height="30" src="g_nourish.svg" /> / 
-충전: <img width="30" height="30" src="g_recharge.svg" /> / 
+함께: <img width="30" height="30" src="g_together.svg" /> 함께 올라가는 듯한. 닫힌 삼각형 머리를 가진 화살표.  
+공유: <img width="30" height="30" src="g_share.svg" /> 다이아몬드 모양, 비싼 가치를 공유하는 느낌.  
+조화: <img width="30" height="30" src="g_harmony.svg" /> 원자와 음향의 존재 원리인 정상파(하모니)의 조화로움.  
+간호: <img width="30" height="30" src="g_nourish.svg" /> 좌하단 삼각형은 영양분, 조장, 키우다 같은 뜻.   
+충전: <img width="30" height="30" src="g_recharge.svg" /> 좌상단 삼각형은 리챠지 하는 뜻.
+
+조화 글리프의 경우 (<img width="20" height="20" src="g_harmony.svg" />) 평화롭고 조화로운 여러 뜻인데, 
+주로 peace로 표기될 때가 많습니다. 이 발음으로 읽게 되면 다른 발음이 유사한 단어들과 혼동하는 순간이 생기므로, 
+처음부터 조화(혹은 하모니)로 익히는 것을 권장합니다. 글리프 모양도 공명하는 정상파의 모양입니다.  
+간호와 충전은 (<img width="20" height="20" src="g_nourish.svg" /> 
+<img width="20" height="20" src="g_recharge.svg" />) 상하 대칭이라고 볼 수 있습니다. 
+대부분 반대 뜻이 되는 좌우 대칭과는 다르게, 상하 대칭은 반대가 아닌 뜻의 변형인 경우가 많습니다.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_intelligence.svg" /> 
@@ -493,4 +505,4 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 : <img width="30" height="30" src="g_nemesis.svg" /> / 
 : <img width="30" height="30" src="g_toast.svg" /> / 
 
-Todo: call. deprecated.
+Todo: deprecated. call. creativity. chase. response. sustain. 
