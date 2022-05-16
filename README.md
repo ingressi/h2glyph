@@ -311,7 +311,7 @@ inside 글리프 <img width="20" height="20" src="g_inside.svg" /> 경우는 완
 장벽의 경우 <img width="20" height="20" src="g_barrier.svg" /> 직관적이진 않지만, 
 좌우대칭 반대어의 어감을 갖추고 있습니다. 장소 간에 지나다닐 수 있게 하는 것이 
 "길 <img width="20" height="20" src="g_path.svg" />" 이라면, 지나다니지 못하게 막는 것이
-<img width="20" height="20" src="g_die.barrier.svg" /> 장벽이기 때문입니다. 장벽 글리프의 
+<img width="20" height="20" src="g_barrier.svg" /> 장벽이기 때문입니다. 장벽 글리프의 
 영어단어 뜻에 "보호막"이 있어서 보호막이라는 의미로도 퀴즈에 나오지만, 장벽으로 읽어도 무난합니다.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
