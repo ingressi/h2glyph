@@ -453,7 +453,7 @@ weak 글리프 좌우대칭 모양이 안에 숨어 있는데, 맥락은 불분�
 어려운: <img width="30" height="30" src="g_difficult.svg" /> 잡기 어려운 갈매기 새.  
 
 다소 그냥 외울 수 밖에 없는 내용들이며, 좌측 우측 방향과 꼭지점도 혼동하기 않게 잘 외워야 합니다.  
-inperfect 결함 <img width="20" height="20" src="g_inperfect.svg" /> 글리프는 앱 화면에 
+inperfect 결함 <img width="20" height="20" src="g_imperfect.svg" /> 글리프는 앱 화면에 
 보여지는대로 정확히 따라 그려도 틀렸다고 나오게 되는, 좌절 체험 히든카드 담당입니다. 
 원래 보여지는 (삼각형 옆에 한 획이 길게 튀어나간) 모양을 그린 뒤, 이 문서에서 그려진 모양처럼 
 허공 사이로 곡선 획을 돌려 아래 꼭지점을 다시 이어줘야 정답이 됩니다.  
@@ -461,6 +461,7 @@ inperfect 결함 <img width="20" height="20" src="g_inperfect.svg" /> 글리프�
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_lie.svg" /> 
+<img width="20" height="20" src="g_use.svg" /> 
 
 ## Lesson 21 : lead. follow. contemplate. avoid. separate.
 **조직과 차별**  
@@ -473,7 +474,7 @@ inperfect 결함 <img width="20" height="20" src="g_inperfect.svg" /> 글리프�
 
 조직이 있으면 이끄는 자가 <img width="20" height="20" src="g_lead.svg" /> 있고 
 따르는 자들이 <img width="20" height="20" src="g_follow.svg" /> 있고 조직 내에 서로를 
-<img width="20" height="20" src="g_comtemplate.svg" /> 배려합니다. 
+<img width="20" height="20" src="g_contemplate.svg" /> 배려합니다.  
 다르다면 틀리다며 배제하고 <img width="20" height="20" src="g_avoid.svg" /> 
 차별하며 <img width="20" height="20" src="g_separate.svg" /> 분리하려 하겠죠.
 
@@ -502,32 +503,42 @@ inperfect 결함 <img width="20" height="20" src="g_inperfect.svg" /> 글리프�
 <img width="20" height="20" src="g_avoid.svg" /> 
 <img width="20" height="20" src="g_difficult.svg" /> 
 
-## Lesson 23 : nature. civilization. legacy. perspective. unbounded.
-**자연과 문명**  
-관련 글리프 그림과 뜻은 다음과 같습니다 : nature. civilization. legacy. perspective. unbounded.  
-자연: <img width="30" height="30" src="g_nature.svg" /> / 
-문명: <img width="30" height="30" src="g_civilization.svg" /> / 
-관습: <img width="30" height="30" src="g_legacy.svg" /> / 
-전망: <img width="30" height="30" src="g_perspective.svg" /> / 
-무한: <img width="30" height="30" src="g_unbounded.svg" /> / 
-
-혼동 유의 : 아래 글리프와 혼동 주의하세요.  
-<img width="20" height="20" src="g_harmony.svg" /> 
-<img width="20" height="20" src="g_shaper.svg" /> 
-
-## Lesson 24 : mystery. question. search. answer.
+## Lesson 23 : mystery. question. search. answer.
 **궁금증과 해답**  
 관련 글리프 그림과 뜻은 다음과 같습니다 : mystery. question. search. answer.  
-신비: <img width="30" height="30" src="g_mystery.svg" /> / 
-질문: <img width="30" height="30" src="g_question.svg" /> / 
-검색: <img width="30" height="30" src="g_search.svg" /> / 
-대답: <img width="30" height="30" src="g_answer.svg" /> / 
+신비: <img width="30" height="30" src="g_mystery.svg" /> 신기한 각도로 떠다니는...  
+질문: <img width="30" height="30" src="g_question.svg" /> 뭘까 궁금한 모양.  
+검색: <img width="30" height="30" src="g_search.svg" /> 가운데부터 찾아 나가는 흔적.  
+대답: <img width="30" height="30" src="g_answer.svg" /> 안에서 찾아낸 대답.  
+
+<img width="20" height="20" src="g_mystery.svg" />신비한 것을 보면, 
+<img width="20" height="20" src="g_question.svg" />궁금증이 생기니, 
+<img width="20" height="20" src="g_search.svg" />검색과 탐색을 거쳐, 
+<img width="20" height="20" src="g_answer.svg" />답을 찾아내는 글리프들입니다.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_weak.svg" /> 
 <img width="20" height="20" src="g_lie.svg" /> 
 <img width="20" height="20" src="g_body.svg" /> 
 <img width="20" height="20" src="g_unbounded.svg" /> 
+
+## Lesson 24 : nature. civilization. perspective. unbounded. legacy.
+**자연과 문명**  
+관련 글리프 그림과 뜻은 다음과 같습니다 : nature. civilization. perspective. unbounded. legacy.  
+자연: <img width="30" height="30" src="g_nature.svg" /> 자연에 나갈 때 챙 달린 모자 씀.  
+문명: <img width="30" height="30" src="g_civilization.svg" /> 자연의 대칭 반대말은 도시 문명.  
+전망: <img width="30" height="30" src="g_perspective.svg" /> 원근법이 느껴지는 전망도.  
+무한: <img width="30" height="30" src="g_unbounded.svg" /> 자연도 문명도 무궁무진.  
+관습: <img width="30" height="30" src="g_legacy.svg" /> 굳건한 건축 구조체 같은 관습.  
+
+이 글리프들 중 전망 <img width="20" height="20" src="g_perspective.svg" /> 글리프는 거의 안나옵니다.  
+관습 레거시는 <img width="20" height="20" src="g_legacy.svg" /> 대부분 인류 글리프와 
+<img width="20" height="20" src="g_human.svg" /> 묶여서 나옵니다. 레가시를 언급하는 입장은 쉐이퍼들 
+뿐이기에, 레거시를 포함한 문장은 대부분 쉐이퍼가 인류(혹은 엔지얼) 측을 낡고 개혁할 대상으로 보는 것입니다.  
+
+혼동 유의 : 아래 글리프와 혼동 주의하세요.  
+<img width="20" height="20" src="g_harmony.svg" /> 
+<img width="20" height="20" src="g_shaper.svg" /> 
 
 ## Lesson 25 : journey. path. outside. destination. discover.
 **여행**  
@@ -577,4 +588,4 @@ inperfect 결함 <img width="20" height="20" src="g_inperfect.svg" /> 글리프�
 : <img width="30" height="30" src="g_nemesis.svg" /> / 
 : <img width="30" height="30" src="g_toast.svg" /> / 
 
-Todo: deprecated. call. creativity. chase. response. sustain. 
+Todo: deprecated. call. creativity. chase. response. sustain. heart. 
