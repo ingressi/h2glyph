@@ -181,8 +181,9 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 진화: <img width="30" height="30" src="g_evolution.svg" /> 세대를 거쳐 계단식 발전을 이루는 진화의 모습.  
 실패: <img width="30" height="30" src="g_failure.svg" /> 좌우 대칭으로 반대 뉘앙스인 실패의 뜻.  
 
-숨쉼 글리프는 LIVE라는 뜻으로도 쓰입니다. 진화 글리프는 알파벳 N과 유사한데, 
-다른 글리프도 N과 유사한 것이 있으니 주의해야 합니다.
+숨쉼 글리프(<img width="20" height="20" src="g_breathe.svg" />)는 LIVE라는 뜻으로도 쓰입니다. 
+진화 글리프(<img width="20" height="20" src="g_evolution.svg" />)는 알파벳 N과 유사한데, 
+다른 글리프도 N과 유사한 것(<img width="20" height="15" src="g_message.svg" />)이 있으니 주의해야 합니다.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_self.svg" /> 
@@ -195,11 +196,15 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 ## Lesson 8 : advance. retreat. attack. defend. victory.
 **전쟁**  
 관련 글리프 그림과 뜻은 다음과 같습니다 : advance. retreat. attack. defend. victory.  
-전진: <img width="30" height="30" src="g_advance.svg" /> / 
-후퇴: <img width="30" height="30" src="g_retreat.svg" /> / 
-전쟁: <img width="30" height="30" src="g_attack.svg" /> / 
-방어: <img width="30" height="30" src="g_defend.svg" /> / 
-승리: <img width="30" height="30" src="g_victory.svg" /> / 
+전진: <img width="30" height="30" src="g_advance.svg" /> 급격한 기울기는 전진입니다.  
+후퇴: <img width="30" height="30" src="g_retreat.svg" /> 반대쪽 기울기는 후퇴입니다.  
+전쟁: <img width="30" height="30" src="g_attack.svg" /> 전진 후퇴 합쳐 전쟁. ("공격" 의미로도 쓰임)  
+방어: <img width="30" height="30" src="g_defend.svg" /> 상하 대칭 반대말로 방어.  
+승리: <img width="30" height="30" src="g_victory.svg" /> V자 위에 고깔 씌운 승리.  
+
+결국 진영전이기 때문에 글리프가 3~5개인 문장에는 공격하라/방어하라는 지령이 많이 등장합니다. 
+가장 커다랗게 그릴 수 있는 위/아래 꺽쇠(<img width="20" height="20" src="g_attack.svg" /> <img width="20" height="20" src="g_depend.svg" /> )가 전쟁과 방어를 뜻하며, 승리(<img width="20" height="20" src="g_victory.svg" />)와 패배를 뜻하는 글리프가 별도로 있습니다. 
+("패배" 글리프는 "분실"과 같은 모양<img width="15" height="15" src="g_loss.svg" /> 이라서 여기에서는 다루지 않습니다.)
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_create.svg" /> 
@@ -488,3 +493,4 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 : <img width="30" height="30" src="g_nemesis.svg" /> / 
 : <img width="30" height="30" src="g_toast.svg" /> / 
 
+Todo: call. deprecated.
