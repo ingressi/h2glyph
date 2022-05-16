@@ -429,11 +429,13 @@ weak 글리프 좌우대칭 모양이 안에 숨어 있는데, 맥락은 불분�
 ## Lesson 19 : danger. chaos. conflict. harm. technology.
 **해로움**  
 관련 글리프 그림과 뜻은 다음과 같습니다 : danger. chaos. conflict. harm. technology.  
-위험: <img width="30" height="30" src="g_danger.svg" /> / 
-혼돈: <img width="30" height="30" src="g_chaos.svg" /> / 
-충돌: <img width="30" height="30" src="g_conflict.svg" /> / 
-가해: <img width="30" height="30" src="g_harm.svg" /> / 
-테크: <img width="30" height="30" src="g_technology.svg" /> / 
+위험: <img width="30" height="30" src="g_danger.svg" /> 찔리면 위험할 것 같은 창 모양.  
+혼돈: <img width="30" height="30" src="g_chaos.svg" /> 크게 입벌린 혼파망 괴물.  
+충돌: <img width="30" height="30" src="g_conflict.svg" /> 이빨을 세운 용기들끼리 충동하면.  
+상처: <img width="30" height="30" src="g_harm.svg" /> 아까 그 창으로 찔려박힌 구멍난 상처.  
+테크: <img width="30" height="30" src="g_technology.svg" /> 족집게로 집을 듯한 젓가락 기술력.  
+
+테크 글리프를 여기에 포함시킬 맥락은 아니지만, 이들 글리프가 같은 문장에 자주 묶여 나옵니다.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_nzeer.svg" /> 
@@ -444,11 +446,18 @@ weak 글리프 좌우대칭 모양이 안에 숨어 있는데, 맥락은 불분�
 ## Lesson 20 : pure. impure. imperfect. easy. difficult.
 **순도과 난이도**  
 관련 글리프 그림과 뜻은 다음과 같습니다 : pure. impure. imperfect. easy. difficult.  
-순수: <img width="30" height="30" src="g_pure.svg" /> / 
-불순: <img width="30" height="30" src="g_impure.svg" /> / 
-결함: <img width="30" height="30" src="g_imperfect.svg" /> / 
-쉬운: <img width="30" height="30" src="g_easy.svg" /> / 
-어려운: <img width="30" height="30" src="g_difficult.svg" /> / 
+순수: <img width="30" height="30" src="g_pure.svg" /> 하늘로부터 내려와 오른쪽으로 흐른 순수 삼각형.  
+불순: <img width="30" height="30" src="g_impure.svg" /> 땅에서 올라온 왼쪽 삼각형.  
+결함: <img width="30" height="30" src="g_imperfect.svg" /> 가장 어려운 글리프. (아래 설명 참고)  
+쉬운: <img width="30" height="30" src="g_easy.svg" /> 기울어져 떨어진 쉬운 시옷.  
+어려운: <img width="30" height="30" src="g_difficult.svg" /> 잡기 어려운 갈매기 새.  
+
+다소 그냥 외울 수 밖에 없는 내용들이며, 좌측 우측 방향과 꼭지점도 혼동하기 않게 잘 외워야 합니다.  
+inperfect 결함 <img width="20" height="20" src="g_inperfect.svg" /> 글리프는 앱 화면에 
+보여지는대로 정확히 따라 그려도 틀렸다고 나오게 되는, 좌절 체험 히든카드 담당입니다. 
+원래 보여지는 (삼각형 옆에 한 획이 길게 튀어나간) 모양을 그린 뒤, 이 문서에서 그려진 모양처럼 
+허공 사이로 곡선 획을 돌려 아래 꼭지점을 다시 이어줘야 정답이 됩니다.  
+구글에서 이 내용을 영상 등으로 찾아보려면 ingress (glyph) imperfect 등으로 검색해보면 됩니다.
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_lie.svg" /> 
