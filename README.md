@@ -13,7 +13,9 @@
 포탈 레벨이 높을 수록 그림의 갯수가 많아져서 최대 5개의 그림을 외우고 따라 그리게 되는데, 
 각 그림(glyph. 글리프) 별 단어로써 의미가 지정되어 있기에... 5개의 뜻을 이으면 유의미한 문장이 완성됩니다.  
 
-이 맥락을 알아채게 되면 퀴즈가 더 용이해집니다.
+이 맥락을 알아채게 되면 퀴즈가 더 용이해집니다.  
+(참고로, 유수 웹 검색 서비스에서 "github ingress glyph" 등으로 검색하면, 
+많은 종류의 글리프 사전 및 연습 도구들을 찾아내어 사용할 수 있습니다.)
 
 ## Lesson 0 : see.
 **레슨 구성**  
@@ -605,5 +607,5 @@ shild 글리프도 있습니다.
 네메시스: <img width="30" height="30" src="g_nemesis.svg" /> 천칭 혹은 모래시계.  
 토스트: <img width="30" height="30" src="g_toast.svg" /> 식빵.  
 
-Todo1: deprecated 어근들 리스트업. call. creativity. chase. response. sustain. heart. 
+Todo1: deprecated 어근들 리스트업. call. creativity. chase. response. sustain. heart.  
 Todo2: deprecated 중복어 리스트업. 엔라. 레지...
