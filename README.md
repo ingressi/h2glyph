@@ -206,7 +206,7 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 
 결국 진영전이기 때문에 글리프가 3~5개인 문장에는 공격하라/방어하라는 지령이 많이 등장합니다. 
 가장 커다랗게 그릴 수 있는 위/아래 꺽쇠<img width="20" height="20" src="g_attack.svg" /> <img width="20" height="20" src="g_defend.svg" />가 전쟁과 방어를 뜻하며, 승리<img width="20" height="20" src="g_victory.svg" />와 패배를 뜻하는 글리프가 별도로 있습니다. 
-("패배" 글리프는 "분실"과 같은 모양<img width="15" height="15" src="g_loss.svg" /> 이라서 여기에서는 다루지 않습니다.)
+("패배" 글리프는 "분실"과 같은 모양<img width="15" height="15" src="g_lose.svg" /> 이라서 여기에서는 다루지 않습니다.)
 
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_create.svg" /> 
@@ -231,7 +231,7 @@ simple은 글리프 출력 속도를 빠르지 않게 하고, complex는 글리�
 혼동 유의 : 아래 글리프와 혼동 주의하세요.  
 <img width="20" height="20" src="g_see.svg" /> 
 <img width="20" height="20" src="g_gain.svg" /> 
-<img width="20" height="20" src="g_loss.svg" /> 
+<img width="20" height="20" src="g_lose.svg" /> 
 <img width="20" height="20" src="g_improve.svg" /> 
 <img width="20" height="20" src="g_erode.svg" /> 
 <img width="20" height="20" src="g_weak.svg" /> 
@@ -369,11 +369,11 @@ use 글리프도 문장에는 자주 나오지 않으나, 막상 드물게 나�
 <img width="20" height="20" src="g_easy.svg" /> 
 <img width="20" height="20" src="g_react.svg" /> 
 
-## Lesson 16 : gain. loss. begin. end. escape.
+## Lesson 16 : gain. lose. begin. end. escape.
 **기본적 행위**  
-관련 글리프 그림과 뜻은 다음과 같습니다 : gain. loss. begin. end. escape.  
+관련 글리프 그림과 뜻은 다음과 같습니다 : gain. lose. begin. end. escape.  
 획득: <img width="30" height="30" src="g_gain.svg" /> 왼쪽 팔.  
-분실: <img width="30" height="30" src="g_loss.svg" /> 오른쪽 팔.  
+분실: <img width="30" height="30" src="g_lose.svg" /> 오른쪽 팔. (패배라는 뜻 포함).  
 시작: <img width="30" height="30" src="g_begin.svg" /> 낚시를 시작해볼까.  
 끝냄: <img width="30" height="30" src="g_end.svg" /> 크게 접은 모양.  
 탈출: <img width="30" height="30" src="g_escape.svg" /> 비상탈출.  
@@ -381,7 +381,7 @@ use 글리프도 문장에는 자주 나오지 않으나, 막상 드물게 나�
 처음에 보다(see) <img width="15" height="15" src="g_see.svg" /> 레슨에서 혼동 가능한 
 짧은 선 글리프들이 있다고 소개했었고, see에는 대칭 반대어가 없다고 했습니다. 
 획득와 분실 글리프는 <img width="20" height="20" src="g_gain.svg" /> 
-<img width="20" height="20" src="g_loss.svg" /> 서로 대칭이자 반대말입니다.  
+<img width="20" height="20" src="g_lose.svg" /> 서로 대칭이자 반대말입니다.  
 헌데 시작과 끝은 <img width="20" height="20" src="g_begin.svg" /> 
 <img width="20" height="20" src="g_end.svg" /> 서로 명확한 반대어임에도 불구하고 
 대칭이 아니어서 의아합니다. 탈출 글리프는 <img width="20" height="20" src="g_escape.svg" /> 
